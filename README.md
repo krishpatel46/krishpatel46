@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @krishpatel46 or just Krish, in short.
-- 👀 I’m interested in programming and further in AI-ML!
-- 🌱 I’m currently a beginner and I've started out by learning C and JavaScript.
+- 👋 Hi, I’m @krishpatel46 or simply Krish.
+- 👀 I’m interested in Software/Application development and further in AI/ML!
+- 🌱 I've gained enough knowledge of C and am soon going to start C++.
+- 💻 Also, I've started learning ML with Python. 
 
 <!---
 krishpatel46/krishpatel46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
