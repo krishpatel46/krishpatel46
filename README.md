@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishpatel46 or simply Krish.
+- 👋 Hi, I’m @krishpatel46 or just call me Krish.
 - 👀 I’m interested in Software/Application development and further in AI/ML!
 - 🌱 I've gained enough knowledge of C and have learned intermidiate C++.
 - 💻 Also, I've started learning Java. 
